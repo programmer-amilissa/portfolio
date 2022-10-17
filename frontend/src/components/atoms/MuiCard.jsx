@@ -21,7 +21,7 @@ function MuiCard() {
             Girlfriend ni Ida.
           </Typography>
           <Typography variant="body2" component="div">
-            I love you! Yieeee
+          And ganda mo palagi. I love you! Akin ka lang please. 
           </Typography>
         </CardContent>
       </Card>
