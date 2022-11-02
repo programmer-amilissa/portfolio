@@ -1,3 +1,3 @@
-import MuiCard from './MuiCard'
+import MuiCard from './atoms/MuiCard'
 
 export default { MuiCard }

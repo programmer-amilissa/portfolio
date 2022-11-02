@@ -1,0 +1,7 @@
+local start
+npm run dev
+
+deploy to heroku
+git add .
+git commit -m "Sample Message"
+git push heroku master
