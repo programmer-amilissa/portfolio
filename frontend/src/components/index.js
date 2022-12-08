@@ -1,3 +1,5 @@
-import { MuiCard } from './atoms'
+import { CountDown } from './organisms'
+import { Banner, MyWorks } from './templates'
 
-export default { MuiCard }
+
+export { CountDown, Banner, MyWorks }
