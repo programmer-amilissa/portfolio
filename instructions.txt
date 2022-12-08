@@ -5,3 +5,10 @@ deploy to heroku
 git add .
 git commit -m "Sample Message"
 git push heroku master
+
+
+orrr 
+
+git push -u origin master
+
+
