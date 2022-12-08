@@ -47,19 +47,17 @@ h3 {
 
 .container {
   width: 100%;
-  max-width: 960px;
   margin: 0 auto;
-  padding: 0 20px;
   text-align: center;
 }
 
 .header {
+  background-color: white;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 0;
-  border-bottom: 1px solid #e6e6e6;
-  margin-bottom: 60px;
+  padding: 20px 20px;
+  margin-bottom: 96px;
 }
 
 .header ul {
